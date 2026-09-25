@@ -118,10 +118,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManushaAkilanka&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushaAkilanka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManushaAkilanka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushaAkilanka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManushaAkilanka&theme=dark&hide_border=true&background=0d1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManushaAkilanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
@@ -129,7 +131,7 @@
 
 <div align="center">
 
-<i>Thanks for stopping by — feel free to explore my repositories! 🚀</i>
+<i>Thanks for stopping by - feel free to explore my repositories! 🚀</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:203a43,100:0f2027&height=150&section=footer" />
 
