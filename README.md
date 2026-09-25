@@ -1,26 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E8B57,100:0B3D2E&height=200&section=header&text=Manusha%20Akilanka&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+Python+%7C+Android;Building+real-world+projects%2C+one+commit+at+a+time" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:000000&height=220&section=header&text=Manusha%20Akilanka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20-%20Full-Stack%20and%20Mobile%20Developer&descSize=18&descAlignY=58" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manusha-akilanka-b68683387" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manushaakilanka53@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ManushaAkilanka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Python+%2F+FastAPI+Backend+Engineer;Native+Android+Developer+(Kotlin);Building+real-world+projects%2C+one+commit+at+a+time" />
 
----
+<br/>
 
-### 🎯 About Me
+<a href="https://www.linkedin.com/in/manusha-akilanka-b68683387" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:manushaakilanka53@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ManushaAkilanka" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 🎯 About Me
 
 - 🎓 Undergraduate reading for a **Bachelor of Information and Communication Technology (Hons)** at the Faculty of Technology, **University of Colombo**
 - 💻 Career path: **Software Engineering**
@@ -28,9 +28,9 @@
 - 📍 Based in Balangoda, Sri Lanka
 - 📫 Reach me at **manushaakilanka53@gmail.com**
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -67,42 +67,42 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>📱 TaskFlow</h4>
       <p>Native Android task management app with Firebase auth, profile management, and real-time cloud sync.</p>
       <p><b>Kotlin · Java · Firebase · Android Studio</b></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🛒 UniMart <i>(Ongoing)</i></h4>
       <p>Full-stack campus marketplace for verified students — buy, sell, exchange, and request items with role-based access.</p>
       <p><b>React · Node.js · Express · MongoDB · JWT</b></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🔐 KeyForge</h4>
       <p>Browser-based secure password generator with entropy scoring, CSPRNG backend, and a glassmorphism UI.</p>
       <p><b>React · TypeScript · Vite · Python</b></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>💰 Personal Finance & Expense Tracker</h4>
       <p>Async multi-tenant finance app with Argon2id auth, OAuth2, budgeting dashboard, and automated tests.</p>
       <p><b>FastAPI · SQLAlchemy 2.0 · PostgreSQL · Tailwind</b></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🚗 Lanka VSC</h4>
       <p>Vehicle service center management system with PDF invoicing, revenue dashboards, and PayHere payments.</p>
       <p><b>React · Node.js · Express · MySQL · PayHere API</b></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🗺️ Travel Guider</h4>
       <p>AI-powered travel platform with interactive maps, live weather, and Gemini-driven trip planning.</p>
       <p><b>React 19 · TypeScript · Supabase · Redis · Gemini AI</b></p>
@@ -110,25 +110,27 @@
   </tr>
 </table>
 
-> Repo links intentionally left off this table — add `[Project Name](https://github.com/ManushaAkilanka/repo-name)` once each repo is public.
+> Add `[Project Name](https://github.com/ManushaAkilanka/repo-name)` links once each repo is public.
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManushaAkilanka&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushaAkilanka&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManushaAkilanka&theme=dark&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManushaAkilanka&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushaAkilanka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManushaAkilanka&theme=dark&hide_border=true&background=0d1117" />
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories! 🚀</i></p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:2E8B57&height=100&section=footer" />
-</p>
+<br/>
+
+<div align="center">
+
+<i>Thanks for stopping by — feel free to explore my repositories! 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:203a43,100:0f2027&height=150&section=footer" />
+
+</div>
