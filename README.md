@@ -118,12 +118,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManushaAkilanka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushaAkilanka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+![Followers](https://img.shields.io/github/followers/ManushaAkilanka?style=for-the-badge&logo=github&color=2ECC71&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=ManushaAkilanka&style=for-the-badge&color=2ECC71&label=PROFILE+VIEWS)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManushaAkilanka&theme=dark&hide_border=true&background=0d1117" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManushaAkilanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+### 🌱 Currently
+
+- Building **UniMart** (campus marketplace) and expanding my Android development skills
+- Exploring **AI-driven development workflows**
+- Open to internship and junior developer opportunities
 
 </div>
 
