@@ -22,7 +22,7 @@
 
 ### 🎯 About Me
 
-- 🎓 Undergraduate reading for a **BICT degree** at the Faculty of Technology, **University of Colombo**
+- 🎓 Undergraduate reading for a **Bachelor of Information and Communication Technology (Hons)** at the Faculty of Technology, **University of Colombo**
 - 💻 Career path: **Software Engineering**
 - 🌱 Currently building full-stack web apps and native Android apps to sharpen real-world dev skills
 - 📍 Based in Balangoda, Sri Lanka
